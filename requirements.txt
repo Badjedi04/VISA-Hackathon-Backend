@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+torch
+transformers
+flask
+sentence-transformers
+numpy<2.0.0
